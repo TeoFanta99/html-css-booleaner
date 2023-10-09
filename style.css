@@ -1,3 +1,32 @@
+/* stili generali della pagina */
+* {
+    /* margin: 0; */
+    padding: 0;
+}
+
+
+/* header */
+
+#banner {
+    background-color:rgb(78, 160, 255);
+    height: 100px;
+    background-image: url(file:///Users/matteo/Desktop/Esercizi%20Boolean/Es.%202%20-%20The%20Booleaner/html-css-booleaner/img/pattern.png);
+    background-size: contain;
+}
+
+
+#logo {
+    width: 250px;
+    height: auto;
+    position: relative;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+
+
+
+
 .highlight {
     background-color: yellow;
 }
