@@ -17,9 +17,17 @@
     margin-top: 40px;
 }
 
+#the-booleaner {
+    color: rgb(66, 114, 216);
+}
+
+
+
+/* primo e secondo paragrafo */
 .highlight {
     background-color: yellow;
 }
+
 
 
 /* tabella */
@@ -39,4 +47,23 @@ thead {
 
 .azzurro {
     background-color: rgb(177, 229, 242);
+}
+
+
+/* footer */
+.img-footer-uno {
+    width: 300px;
+    height: 200px;
+    background-image: url(file:///Users/matteo/Desktop/Esercizi%20Boolean/Es.%202%20-%20The%20Booleaner/html-css-booleaner/img/monitor.jpg);
+}
+
+.white-text {
+    color: white;
+    font-weight: 700;
+}
+
+.img-footer-due {
+    width: 300px;
+    height: 200px;
+    background-image: url(file:///Users/matteo/Desktop/Esercizi%20Boolean/Es.%202%20-%20The%20Booleaner/html-css-booleaner/img/graph.jpg);
 }
