@@ -16,9 +16,15 @@
     height: auto;
     position: relative;
     margin-bottom: 0px;
-    margin-left: 0px;
+    margin-top: 40px;
 }
 
 .highlight {
     background-color: yellow;
+}
+
+
+/* tabella */
+table {
+    width: 1000px;
 }
