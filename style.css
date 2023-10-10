@@ -1,8 +1,8 @@
 /* stili generali della pagina */
 
 
-/* header */
 
+/* header */
 #banner {
     background-color:rgb(78, 160, 255);    background-image: url(file:///Users/matteo/Desktop/Esercizi%20Boolean/Es.%202%20-%20The%20Booleaner/html-css-booleaner/img/pattern.png);
     background-size: contain;
@@ -23,10 +23,12 @@
 
 
 
+
 /* primo e secondo paragrafo */
 .highlight {
     background-color: yellow;
 }
+
 
 
 
@@ -48,6 +50,7 @@ thead {
 .azzurro {
     background-color: rgb(177, 229, 242);
 }
+
 
 
 /* footer */
